@@ -1,5 +1,5 @@
 body {
-	background-color: navy
+	background-color: navy;
 	text-align: center;
 }
 
@@ -23,6 +23,6 @@ p {
 .link {
 	color: white;
 	display:inline-block;
-	margin-right: 50px
+	margin-right: 50px;
 	margin-left: 50px;
 }
