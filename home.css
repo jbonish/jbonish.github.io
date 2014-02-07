@@ -3,8 +3,8 @@ body {
 }
 
 #mypic {
-	height: 50%;
-	width: 50%;
+	height: 10%;
+	width: 10%;
 	text-align: center;
 }
 
@@ -19,6 +19,6 @@ p {
 	font: garamond;
 }
 
-link {
+.link {
 	display:inline-block;
 }
