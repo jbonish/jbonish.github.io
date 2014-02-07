@@ -1,5 +1,6 @@
 body {
 	background-color: navy
+	text-align: center;
 }
 
 #mypic {
@@ -20,5 +21,8 @@ p {
 }
 
 .link {
+	color: white;
 	display:inline-block;
+	margin-right: 50px
+	margin-left: 50px;
 }
