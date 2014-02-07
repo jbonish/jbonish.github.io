@@ -13,3 +13,8 @@ p {
 	color: white;
 	font: garamond;
 }
+
+ul {
+	text: white;
+	text-align: left;
+}
