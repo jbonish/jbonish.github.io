@@ -4,8 +4,8 @@ body {
 }
 
 #mypic {
-	height: 10%;
-	width: 10%;
+	height: 30%;
+	width: 30%;
 	text-align: center;
 }
 
@@ -25,4 +25,8 @@ p {
 	display:inline-block;
 	margin-right: 50px;
 	margin-left: 50px;
+}
+
+.link:visited {
+	color: yellow;
 }
