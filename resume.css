@@ -1,6 +1,7 @@
 body {
 	background-color: navy;
 	text-align: center;
+	font: garamond;
 }
 
 h1 {
@@ -15,6 +16,7 @@ p {
 }
 
 ul {
+	color: white
 	text: white;
 	text-align: left;
 }
