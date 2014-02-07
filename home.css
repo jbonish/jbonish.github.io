@@ -4,6 +4,7 @@ body {
 }
 
 #mypic {
+	border-radius: 20px;
 	height: 30%;
 	width: 30%;
 	text-align: center;
