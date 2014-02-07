@@ -1,0 +1,26 @@
+body {
+	background-color: navy;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	border-radius: 10px;
+	font: garamond;
+}
+
+p {
+	color: white;
+	font: garamond;
+}
+
+.link {
+	color: white;
+	display:inline-block;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+a:visited {
+	color: yellow;
+}
