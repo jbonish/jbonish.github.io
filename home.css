@@ -27,6 +27,6 @@ p {
 	margin-left: 50px;
 }
 
-.link:visited {
+a:visited {
 	color: yellow;
 }
